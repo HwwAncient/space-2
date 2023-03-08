@@ -203,7 +203,7 @@ sh scripts/multiwoz21/infer.sh
 - For the data preparation and evaluation on MultiWOZ2.1, we refer to the code of [TripPy](https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public).
 
 ## Citation
-If you use our code or find SPACE2.0 useful in your work, please cite our paper as:
+If you use our code or find SPACE-2 useful in your work, please cite our paper as:
 
 ```bib
 @inproceedings{he2022tree,
@@ -215,4 +215,4 @@ If you use our code or find SPACE2.0 useful in your work, please cite our paper 
 ```
 
 ## Contact
-For personal communication related to SPACE2.0, please contact Wanwei He (`ww.he@siat.ac.cn`).
+For personal communication related to SPACE-2, please contact Wanwei He (`ww.he@siat.ac.cn`).
