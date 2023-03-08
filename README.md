@@ -1,5 +1,5 @@
-# SPACE2.0
-This repository contains code and data for the **COLING'2022** paper "**Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding**".
+# SPACE-2
+This repository contains code and data for the **COLING'2022** paper "**SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding**".
 
 Full version with Appendix is here: [[PDF]](https://arxiv.org/abs/2209.06638)
 
