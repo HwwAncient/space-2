@@ -207,7 +207,7 @@ If you use our code or find SPACE2.0 useful in your work, please cite our paper 
 
 ```bib
 @inproceedings{he2022tree,
-  title={Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding},
+  title={SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding},
   author={He, Wanwei and Dai, Yinpei and Hui, Binyuan and Yang, Min and Cao, Zheng and Dong, Jianbo and Huang, Fei and Si, Luo and Li, Yongbin},
   booktitle={Proceedings of the 29th International Conference on Computational Linguistics},
   year={2022}
